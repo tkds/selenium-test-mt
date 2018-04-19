@@ -1,0 +1,6 @@
+#config.yaml--------------------
+setting: 
+  mt_login: MT_LOGIN_ID
+  mt_pass: MT_LOGIN_PASSWORD
+  mt_url: http://example.com/mt/mt.cgi
+  capture: "./selenium.png"
